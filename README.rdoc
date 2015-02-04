@@ -1,0 +1,1 @@
+## Niccit: a Reddit clone riding on Rails 4
