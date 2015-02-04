@@ -9,6 +9,7 @@ source 'https://rubygems.org'
 
  #auth
  gem 'devise'
+ gem 'figaro'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
